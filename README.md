@@ -121,8 +121,8 @@
   <p>   Make it alright</p>
    <p>  Need a little sweetness in my life</p>
     
-<p> Your sugar! (sugar!)
-  <p>   Yes, please (yes, please)
+<p> Your sugar! (sugar!)</p>
+  <p>   Yes, please (yes, please)</p>
    <p>  Won't you come and put it down on me? (down on me, down on me)
     <br>
      </p>
