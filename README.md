@@ -6,8 +6,8 @@
     body {
       font-family: Arial, sans-serif;
       text-align: center;
-      margin-left: 500px;
-      margin-right: 500px;
+      margin-left: 100px;
+      margin-right: 100px;
       padding: 2rem;
       background-color: burlywood;
     
