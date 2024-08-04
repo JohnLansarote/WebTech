@@ -36,94 +36,94 @@
    <p> You got me begging, begging</p>
    <p> I'm on my knees</p>
     
-<p> I don't wanna be needing your love
-    I just wanna be deep in your love
-    And it's killing me when you're away, ooh, baby
-    'Cause I really don't care where you are
-    I just wanna be there where you are
-    And I gotta get one little taste</p> 
+<p> I don't wanna be needing your love</p>
+  <p>   I just wanna be deep in your love</p>
+  <p>   And it's killing me when you're away, ooh, baby</p>
+   <p>  'Cause I really don't care where you are</p>
+  <p>   I just wanna be there where you are</p>
+   <p>  And I gotta get one little taste</p> 
     
-<p> Your sugar
-    Yes, please
-    Won't you come and put it down on me?
-    I'm right here, 'cause I need
-    Little love, a little sympathy
-    Yeah, you show me good loving
-    Make it alright
-    Need a little sweetness in my life
-    Your sugar
-    Yes, please
-    Won't you come and put it down on me?</p> 
+<p> Your sugar</p>
+  <p>   Yes, please</p>
+  <p>   Won't you come and put it down on me?</p>
+   <p>  I'm right here, 'cause I need</p>
+   <p>  Little love, a little sympathy</p>
+   <p>  Yeah, you show me good loving</p>
+   <p>  Make it alright</p>
+   <p>  Need a little sweetness in my life</p>
+   <p>  Your sugar</p>
+   <p>  Yes, please</p>
+   <p>  Won't you come and put it down on me?</p> 
     
     
-<p> My broken pieces
-    You pick them up
-    Don't leave me hanging, hanging
-    Come give me some
-    When I'm without ya
-    I'm so insecure
-    You are the one thing, one thing
-    I'm living for</p>
+<p> My broken pieces</p>
+  <p>   You pick them up</p>
+   <p>  Don't leave me hanging, hanging</p>
+   <p>  Come give me some</p>
+   <p> When I'm without ya</p>
+   <p>  I'm so insecure</p>
+   <p>  You are the one thing, one thing</p>
+   <p>  I'm living for</p>
     
-<p> I don't wanna be needing your love
-    I just wanna be deep in your love
-    And it's killing me when you're away, ooh, baby
-    'Cause I really don't care where you are
-    I just wanna be there where you are
-    And I gotta get one little taste</p> 
+<p> I don't wanna be needing your love</p>
+  <p>   I just wanna be deep in your love</p>
+   <p>  And it's killing me when you're away, ooh, baby</p>
+   <p>  'Cause I really don't care where you are</p>
+   <p>  I just wanna be there where you are</p>
+   <p>  And I gotta get one little taste</p> 
     
-<p> Your sugar
-    Yes, please
-    Won't you come and put it down on me?
-    I'm right here
-    'Cause I need
-    Little love, a little sympathy
-    Yeah, you show me good loving
-    Make it alright
-    Need a little sweetness in my life
-    Your sugar! (sugar!)
-    Yes, please (yes, please)
-    Won't you come and put it down on me?</p>
+<p> Your sugar</p>
+   <p>  Yes, please</p>
+  <p>   Won't you come and put it down on me?</p>
+  <p>  I'm right here</p>
+   <p>  'Cause I need</p>
+  <p>   Little love, a little sympathy</p>
+  <p>   Yeah, you show me good loving</p>
+  <p>   Make it alright</p>
+  <p>   Need a little sweetness in my life</p>
+   <p>  Your sugar! (sugar!)</p>
+   <p>  Yes, please (yes, please)</p>
+ <p>    Won't you come and put it down on me?</p>
     
-<p> Yeah
-    I want that red velvet
-    I want that sugar sweet
-    Don't let nobody touch it
-    Unless that somebody's me
-    I gotta be your man
-    There ain't no other way
-    'Cause girl you're hotter than a southern California day</p>
+<p> Yeah</p>
+   <p>  I want that red velvet</p>
+   <p>  I want that sugar sweet</p>
+   <p>  Don't let nobody touch it</p>
+   <p>  Unless that somebody's me</p>
+   <p>  I gotta be your man</p>
+   <p>  There ain't no other way</p>
+   <p>  'Cause girl you're hotter than a southern California day</p>
     
-<p> I don't wanna play no games
-    You don't gotta be afraid
-    Don't give me all that shy shit
-    No make-up on
-    That's my</p>
+<p> I don't wanna play no games</p>
+  <p>   You don't gotta be afraid</p>
+   <p>  Don't give me all that shy shit</p>
+   <p>  No make-up on</p>
+   <p>  That's my</p>
     
-    <p>  Sugar
-    Yes, please (please)
-    Won't you come and put it down on me (down on me)?
-    I'm right here (right here), 'cause I need ('cause I need)
-    Little love, a little sympathy
-    So, baby, (yeah) you show me good loving
-    Make it alright
-    Need a little sweetness in my life
-    Your sugar! (sugar!)
-    Yes, please (yes, please)
-    Won't you come and put it down on me? (Down on me)</p>
+    <p>  Sugar</p>
+   <p>  Yes, please (please)</p>
+   <p>  Won't you come and put it down on me (down on me)?</p>
+   <p>  I'm right here (right here), 'cause I need ('cause I need)</p>
+   <p>  Little love, a little sympathy</p>
+   <p>  So, baby, (yeah) you show me good loving</p>
+   <p>  Make it alright</p>
+   <p>  Need a little sweetness in my life</p>
+   <p>  Your sugar! (sugar!)</p>
+   <p>  Yes, please (yes, please)</p>
+   <p>  Won't you come and put it down on me? (Down on me)</p>
     
-<p> Sugar
-    Yes, please
-    Won't you come and put it down on me? (Down on me!)
-    I'm right here, 'cause I need (I'm right here, 'cause I need)
-    Little love, a little sympathy
-    Yeah, you show me good loving
-    Make it alright
-    Need a little sweetness in my life</p>
+<p> Sugar</p>
+  <p>   Yes, please</p>
+  <p>   Won't you come and put it down on me? (Down on me!)</p>
+   <p>  I'm right here, 'cause I need (I'm right here, 'cause I need)</p>
+   <p>  Little love, a little sympathy</p>
+   <p>  Yeah, you show me good loving</p>
+  <p>   Make it alright</p>
+   <p>  Need a little sweetness in my life</p>
     
 <p> Your sugar! (sugar!)
-    Yes, please (yes, please)
-    Won't you come and put it down on me? (down on me, down on me)
+  <p>   Yes, please (yes, please)
+   <p>  Won't you come and put it down on me? (down on me, down on me)
     <br>
      </p>
 </body>
