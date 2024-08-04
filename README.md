@@ -28,13 +28,13 @@
 <body>
   <h1>"Sugar"</h1>
   <p>by: Maroon 5</p>
-  <p>I'm hurting, baby, I'm broken down
-    I need your loving, loving
-    I need it now
-    When I'm without you
-    I'm something weak
-    You got me begging, begging
-    I'm on my knees</p>
+  <p>I'm hurting, baby, I'm broken down</p>
+   <p> I need your loving, loving</p>
+   <p> I need it now</p>
+  <p>When I'm without you</p>
+   <p> I'm something weak</p>
+   <p> You got me begging, begging</p>
+   <p> I'm on my knees</p>
     
 <p> I don't wanna be needing your love
     I just wanna be deep in your love
